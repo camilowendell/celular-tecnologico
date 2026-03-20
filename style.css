@@ -1,0 +1,29 @@
+body{
+background-color: aqua;
+color: white;
+text-align: center;
+align-items: center;
+font-size:25px;
+padding:0 24px;
+
+}
+.cabecalho{
+    color: black;
+    font-size: 60px;
+
+}
+ 
+.titulo-principal{
+    font-size: 50px;
+}
+.imagem{
+
+    width: 20%;
+    align-items: center;
+}
+.rodape{
+font-size: 16px;
+display: grid;
+text-align: center;
+color: black;
+}
